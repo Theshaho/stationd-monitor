@@ -20,7 +20,7 @@ sudo apt install python3-pip
 git clone https://github.com/Theshaho/stationd-monitor/
 ```
 ```
-cd lava
+cd stationd-monitor
 ```
 ## Change bot token and chat_id Main RPC
 ```
