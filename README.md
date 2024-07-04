@@ -22,7 +22,7 @@ git clone https://github.com/Theshaho/stationd-monitor/
 ```
 cd stationd-monitor
 ```
-## Change bot token and chat_id Main RPC
+## Change bot token and chat_id
 ```
 nano tg.py
 ```
